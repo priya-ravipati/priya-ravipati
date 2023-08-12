@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **Python,HTML,CSS**
+- 💬 Ask me about **Python,HTML,CSS,Quantum-dot Cellular Automata Technology**
 
 - 📫 How to reach me **priyanka.ravipti123@gmail.com**
 
