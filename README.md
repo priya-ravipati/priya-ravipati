@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-ravipati&label=Profile%20views&color=0e75b6&style=flat" alt="priya-ravipati" /> </p>
 
-- 🌱 I’m currently learning **Frameworks**
-
 - 💬 Ask me about **Python,HTML,CSS,Quantum-dot Cellular Automata Technology**
 
 - 📫 How to reach me **priyanka.ravipti123@gmail.com**
