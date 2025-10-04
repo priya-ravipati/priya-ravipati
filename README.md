@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-ravipati&label=Profile%20views&color=0e75b6&style=flat" alt="priya-ravipati" /> </p>
 
-- 💬 Ask me about **Python \n
-Generative AI 
-Azure AI services 
-Langchain 
-GCP GenAI 
-Streamlit 
-FastAPI 
-SQL 
-Agentic AI 
+- 💬 Ask me about **Python ,
+Generative AI ,
+Azure AI services ,
+Langchain ,
+GCP GenAI ,
+Streamlit ,
+FastAPI ,
+SQL ,
+Agentic AI ,
 NLP**
 
 - 📫 How to reach me **priyanka.ravipti123@gmail.com**
