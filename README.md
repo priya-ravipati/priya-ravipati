@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ravipati Priyanka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Generative AI developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-ravipati&label=Profile%20views&color=0e75b6&style=flat" alt="priya-ravipati" /> </p>
 
-- 💬 Ask me about **Python,HTML,CSS,Quantum-dot Cellular Automata Technology**
+- 💬 Ask me about **Python 
+Generative AI 
+Azure AI services 
+Langchain 
+GCP GenAI 
+Streamlit 
+FastAPI 
+SQL 
+Agentic AI 
+NLP**
 
 - 📫 How to reach me **priyanka.ravipti123@gmail.com**
 
