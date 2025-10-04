@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-ravipati&label=Profile%20views&color=0e75b6&style=flat" alt="priya-ravipati" /> </p>
 
-- 💬 Ask me about **Python 
+- 💬 Ask me about **Python \n
 Generative AI 
 Azure AI services 
 Langchain 
